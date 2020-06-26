@@ -68,7 +68,7 @@ p{
 
 .navbar-items ul li a{
 	text-transform: uppercase;
-	color: white;
+	color: black;
 }
 
 /* banner-image */
@@ -240,7 +240,7 @@ html{
 	line-height: 50px;
 	text-align: center;
 	cursor: pointer;
-	background: white;
+	background: black;
 	border-radius: 50%;
 	display: none;
 }
